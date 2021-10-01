@@ -4,7 +4,7 @@ A simple application which takes single page A3 booklets as a .pdf and converts 
 
 ## Use Case
 
-This tool is designed for single page A3 booklets, in the following format (showing front on left and back on right, with page numbers indicating intended order).
+This tool is designed for single page A3 booklets, in the following format (showing front on top and back on buttom, with page numbers indicating intended order).
 
 ![Layout](layout.png)
 
