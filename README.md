@@ -19,3 +19,7 @@ To run the application, download a zip of the above by clicking the green `Code`
 Specify the source file as a full file path to the .pdf source (for example: `C:\Users\username\Desktop\Demo_File.pdf`) and the path to the destination file, including the name you wish to call it (for example: `C:\Users\username\Desktop\Demo_File_Tiling.pdf`).
 
 Click `Tile PDF` and wait for a message to show up in the box below, to indicate success or failure.
+
+## Links
+
+This tool was built using the iText7 .Net Package which can be found [here](https://www.nuget.org/packages/itext7/).
