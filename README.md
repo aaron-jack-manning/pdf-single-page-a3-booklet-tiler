@@ -20,6 +20,10 @@ Specify the source file as a full file path to the .pdf source (for example: `C:
 
 Click `Tile PDF` and wait for a message to show up in the box below, to indicate success or failure.
 
+## Requirements
+
+You may be required to install the .net runtime, which can be found [here](https://dotnet.microsoft.com/download/dotnet/5.0/runtime). Select the option for desktop app.
+
 ## Links
 
 This tool was built using the iText7 .Net Package which can be found [here](https://www.nuget.org/packages/itext7/).
